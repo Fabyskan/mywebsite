@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 nav ul li a:hover, nav ul li a.active {
-    background-color: #774299; /* Leichter Farbton der Hauptfarbe */
+    background-color: #5bc0de /* Leichter Farbton der Hauptfarbe */
 }
 
 /* Main Content */
@@ -85,7 +85,7 @@ section h2 {
 }
 
 .cta-button:hover {
-    background-color: #774299;
+    background-color: #5bc0de;
 }
 
 /* Footer */
